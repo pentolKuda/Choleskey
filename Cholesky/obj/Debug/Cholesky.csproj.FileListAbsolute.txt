@@ -1,0 +1,10 @@
+C:\Users\fachr\source\repos\Cholesky\Cholesky\obj\Debug\Cholesky.csproj.AssemblyReference.cache
+C:\Users\fachr\source\repos\Cholesky\Cholesky\obj\Debug\Cholesky.Form1.resources
+C:\Users\fachr\source\repos\Cholesky\Cholesky\obj\Debug\Cholesky.Properties.Resources.resources
+C:\Users\fachr\source\repos\Cholesky\Cholesky\obj\Debug\Cholesky.csproj.GenerateResource.cache
+C:\Users\fachr\source\repos\Cholesky\Cholesky\obj\Debug\Cholesky.csproj.CoreCompileInputs.cache
+C:\Users\fachr\source\repos\Cholesky\Cholesky\bin\Debug\Cholesky.exe.config
+C:\Users\fachr\source\repos\Cholesky\Cholesky\bin\Debug\Cholesky.exe
+C:\Users\fachr\source\repos\Cholesky\Cholesky\bin\Debug\Cholesky.pdb
+C:\Users\fachr\source\repos\Cholesky\Cholesky\obj\Debug\Cholesky.exe
+C:\Users\fachr\source\repos\Cholesky\Cholesky\obj\Debug\Cholesky.pdb
